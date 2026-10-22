@@ -1,0 +1,1117 @@
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+   0.091515000s  INFO prepare_target{force=false package_id=spectral_hypergraph v0.1.0 (C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph) target="spectral_hypergraph"}: cargo::core::compiler::fingerprint: fingerprint error for spectral_hypergraph v0.1.0 (C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph)/Check { test: false }/TargetInner { ..: lib_target("spectral_hypergraph", ["lib"], "C:\\Users\\deand\\Desktop\\cdd_sanctions_engin\\spectral_hypergraph\\src\\lib.rs", Edition2021) }
+   0.091577600s  INFO prepare_target{force=false package_id=spectral_hypergraph v0.1.0 (C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph) target="spectral_hypergraph"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\spectral_hypergraph-1aa9d794bae16791\lib-spectral_hypergraph`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.146279500s  INFO prepare_target{force=false package_id=indexmap v2.2.6 target="indexmap"}: cargo::core::compiler::fingerprint: fingerprint error for indexmap v2.2.6/Check { test: false }/TargetInner { name_inferred: true, benched: false, ..: lib_target("indexmap", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\indexmap-2.2.6\\src\\lib.rs", Edition2021) }
+   0.146315100s  INFO prepare_target{force=false package_id=indexmap v2.2.6 target="indexmap"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\indexmap-cae61334bcb187c1\lib-indexmap`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.146861600s  INFO prepare_target{force=false package_id=equivalent v1.0.2 target="equivalent"}: cargo::core::compiler::fingerprint: fingerprint error for equivalent v1.0.2/Check { test: false }/TargetInner { ..: lib_target("equivalent", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\equivalent-1.0.2\\src\\lib.rs", Edition2015) }
+   0.146884800s  INFO prepare_target{force=false package_id=equivalent v1.0.2 target="equivalent"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\equivalent-80460e64d6b9b6d0\lib-equivalent`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.147473900s  INFO prepare_target{force=false package_id=hashbrown v0.14.5 target="hashbrown"}: cargo::core::compiler::fingerprint: fingerprint error for hashbrown v0.14.5/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("hashbrown", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\hashbrown-0.14.5\\src\\lib.rs", Edition2021) }
+   0.147492900s  INFO prepare_target{force=false package_id=hashbrown v0.14.5 target="hashbrown"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\hashbrown-b2ec110c655653b6\lib-hashbrown`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.148059100s  INFO prepare_target{force=false package_id=nalgebra v0.32.6 target="nalgebra"}: cargo::core::compiler::fingerprint: fingerprint error for nalgebra v0.32.6/Check { test: false }/TargetInner { ..: lib_target("nalgebra", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\nalgebra-0.32.6\\src\\lib.rs", Edition2018) }
+   0.148081800s  INFO prepare_target{force=false package_id=nalgebra v0.32.6 target="nalgebra"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\nalgebra-88f211f3ba4303be\lib-nalgebra`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.148881600s  INFO prepare_target{force=false package_id=approx v0.5.1 target="approx"}: cargo::core::compiler::fingerprint: fingerprint error for approx v0.5.1/Check { test: false }/TargetInner { ..: lib_target("approx", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\approx-0.5.1\\src\\lib.rs", Edition2015) }
+   0.148902300s  INFO prepare_target{force=false package_id=approx v0.5.1 target="approx"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\approx-b32fcfa9b54be4a5\lib-approx`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.149431600s  INFO prepare_target{force=false package_id=num-traits v0.2.19 target="num_traits"}: cargo::core::compiler::fingerprint: fingerprint error for num-traits v0.2.19/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("num_traits", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\num-traits-0.2.19\\src\\lib.rs", Edition2021) }
+   0.149453500s  INFO prepare_target{force=false package_id=num-traits v0.2.19 target="num_traits"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\num-traits-0359fd5539e170f3\lib-num_traits`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.151651800s  INFO prepare_target{force=false package_id=matrixmultiply v0.3.11 target="matrixmultiply"}: cargo::core::compiler::fingerprint: fingerprint error for matrixmultiply v0.3.11/Check { test: false }/TargetInner { benched: false, ..: lib_target("matrixmultiply", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\matrixmultiply-0.3.11\\src\\lib.rs", Edition2018) }
+   0.151689000s  INFO prepare_target{force=false package_id=matrixmultiply v0.3.11 target="matrixmultiply"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\matrixmultiply-1853deab781e6d5d\lib-matrixmultiply`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.153581300s  INFO prepare_target{force=false package_id=rawpointer v0.2.1 target="rawpointer"}: cargo::core::compiler::fingerprint: fingerprint error for rawpointer v0.2.1/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("rawpointer", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rawpointer-0.2.1\\src\\lib.rs", Edition2015) }
+   0.153605000s  INFO prepare_target{force=false package_id=rawpointer v0.2.1 target="rawpointer"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\rawpointer-3ba0c5978784295e\lib-rawpointer`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.154193300s  INFO prepare_target{force=false package_id=num-complex v0.4.6 target="num_complex"}: cargo::core::compiler::fingerprint: fingerprint error for num-complex v0.4.6/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("num_complex", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\num-complex-0.4.6\\src\\lib.rs", Edition2021) }
+   0.154216300s  INFO prepare_target{force=false package_id=num-complex v0.4.6 target="num_complex"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\num-complex-f86b1f7a23a7a02d\lib-num_complex`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.155229100s  INFO prepare_target{force=false package_id=num-rational v0.4.2 target="num_rational"}: cargo::core::compiler::fingerprint: fingerprint error for num-rational v0.4.2/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("num_rational", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\num-rational-0.4.2\\src\\lib.rs", Edition2021) }
+   0.155249800s  INFO prepare_target{force=false package_id=num-rational v0.4.2 target="num_rational"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\num-rational-5f28ddf5044388b7\lib-num_rational`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.155839600s  INFO prepare_target{force=false package_id=num-integer v0.1.46 target="num_integer"}: cargo::core::compiler::fingerprint: fingerprint error for num-integer v0.1.46/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("num_integer", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\num-integer-0.1.46\\src\\lib.rs", Edition2018) }
+   0.155860800s  INFO prepare_target{force=false package_id=num-integer v0.1.46 target="num_integer"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\num-integer-c3cbbdcd6fefbab4\lib-num_integer`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.156493500s  INFO prepare_target{force=false package_id=simba v0.8.1 target="simba"}: cargo::core::compiler::fingerprint: fingerprint error for simba v0.8.1/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("simba", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\simba-0.8.1\\src\\lib.rs", Edition2018) }
+   0.156514500s  INFO prepare_target{force=false package_id=simba v0.8.1 target="simba"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\simba-b160b6b5ff02436a\lib-simba`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.158425000s  INFO prepare_target{force=false package_id=wide v0.7.33 target="wide"}: cargo::core::compiler::fingerprint: fingerprint error for wide v0.7.33/Check { test: false }/TargetInner { ..: lib_target("wide", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\wide-0.7.33\\src\\lib.rs", Edition2018) }
+   0.158451200s  INFO prepare_target{force=false package_id=wide v0.7.33 target="wide"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\wide-c6c110d9d8f201a0\lib-wide`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.158997800s  INFO prepare_target{force=false package_id=bytemuck v1.25.2 target="bytemuck"}: cargo::core::compiler::fingerprint: fingerprint error for bytemuck v1.25.2/Check { test: false }/TargetInner { ..: lib_target("bytemuck", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\bytemuck-1.25.2\\src\\lib.rs", Edition2018) }
+   0.159017000s  INFO prepare_target{force=false package_id=bytemuck v1.25.2 target="bytemuck"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\bytemuck-c85c47fbbe5aa300\lib-bytemuck`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.159665300s  INFO prepare_target{force=false package_id=safe_arch v0.7.4 target="safe_arch"}: cargo::core::compiler::fingerprint: fingerprint error for safe_arch v0.7.4/Check { test: false }/TargetInner { ..: lib_target("safe_arch", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\safe_arch-0.7.4\\src\\lib.rs", Edition2018) }
+   0.159685500s  INFO prepare_target{force=false package_id=safe_arch v0.7.4 target="safe_arch"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\safe_arch-33e0d9e8e7f5dd3c\lib-safe_arch`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.160245800s  INFO prepare_target{force=false package_id=typenum v1.20.1 target="typenum"}: cargo::core::compiler::fingerprint: fingerprint error for typenum v1.20.1/Check { test: false }/TargetInner { ..: lib_target("typenum", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\typenum-1.20.1\\src\\lib.rs", Edition2018) }
+   0.160279500s  INFO prepare_target{force=false package_id=typenum v1.20.1 target="typenum"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\typenum-90368bfc231befa9\lib-typenum`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.160887400s  INFO prepare_target{force=false package_id=petgraph v0.6.5 target="petgraph"}: cargo::core::compiler::fingerprint: fingerprint error for petgraph v0.6.5/Check { test: false }/TargetInner { benched: false, ..: lib_target("petgraph", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\petgraph-0.6.5\\src\\lib.rs", Edition2018) }
+   0.160908300s  INFO prepare_target{force=false package_id=petgraph v0.6.5 target="petgraph"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\petgraph-74f4fa1fca5fb84e\lib-petgraph`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.161706100s  INFO prepare_target{force=false package_id=fixedbitset v0.4.2 target="fixedbitset"}: cargo::core::compiler::fingerprint: fingerprint error for fixedbitset v0.4.2/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("fixedbitset", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\fixedbitset-0.4.2\\src\\lib.rs", Edition2015) }
+   0.161744400s  INFO prepare_target{force=false package_id=fixedbitset v0.4.2 target="fixedbitset"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\fixedbitset-aabed23666fa2297\lib-fixedbitset`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.162688400s  INFO prepare_target{force=false package_id=rand v0.8.7 target="rand"}: cargo::core::compiler::fingerprint: fingerprint error for rand v0.8.7/Check { test: false }/TargetInner { ..: lib_target("rand", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rand-0.8.7\\src\\lib.rs", Edition2018) }
+   0.162711500s  INFO prepare_target{force=false package_id=rand v0.8.7 target="rand"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\rand-b52799af8ecf9bef\lib-rand`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.163404600s  INFO prepare_target{force=false package_id=rand_chacha v0.3.1 target="rand_chacha"}: cargo::core::compiler::fingerprint: fingerprint error for rand_chacha v0.3.1/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("rand_chacha", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rand_chacha-0.3.1\\src\\lib.rs", Edition2018) }
+   0.163425400s  INFO prepare_target{force=false package_id=rand_chacha v0.3.1 target="rand_chacha"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\rand_chacha-370815d437b787cc\lib-rand_chacha`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.164053400s  INFO prepare_target{force=false package_id=ppv-lite86 v0.2.21 target="ppv_lite86"}: cargo::core::compiler::fingerprint: fingerprint error for ppv-lite86 v0.2.21/Check { test: false }/TargetInner { ..: lib_target("ppv_lite86", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\ppv-lite86-0.2.21\\src\\lib.rs", Edition2021) }
+   0.164074700s  INFO prepare_target{force=false package_id=ppv-lite86 v0.2.21 target="ppv_lite86"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\ppv-lite86-81509f3afb11bc8c\lib-ppv_lite86`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.164695200s  INFO prepare_target{force=false package_id=zerocopy v0.8.55 target="zerocopy"}: cargo::core::compiler::fingerprint: fingerprint error for zerocopy v0.8.55/Check { test: false }/TargetInner { ..: lib_target("zerocopy", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zerocopy-0.8.55\\src\\lib.rs", Edition2021) }
+   0.164717000s  INFO prepare_target{force=false package_id=zerocopy v0.8.55 target="zerocopy"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\zerocopy-541f333136e62157\lib-zerocopy`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.166613400s  INFO prepare_target{force=false package_id=rand_core v0.6.4 target="rand_core"}: cargo::core::compiler::fingerprint: fingerprint error for rand_core v0.6.4/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("rand_core", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\rand_core-0.6.4\\src\\lib.rs", Edition2018) }
+   0.166634500s  INFO prepare_target{force=false package_id=rand_core v0.6.4 target="rand_core"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\rand_core-04674d984767a381\lib-rand_core`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.167172800s  INFO prepare_target{force=false package_id=getrandom v0.2.17 target="getrandom"}: cargo::core::compiler::fingerprint: fingerprint error for getrandom v0.2.17/Check { test: false }/TargetInner { ..: lib_target("getrandom", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\getrandom-0.2.17\\src\\lib.rs", Edition2018) }
+   0.167191900s  INFO prepare_target{force=false package_id=getrandom v0.2.17 target="getrandom"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\getrandom-82099f7f8c157c9e\lib-getrandom`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.167831500s  INFO prepare_target{force=false package_id=cfg-if v1.0.4 target="cfg_if"}: cargo::core::compiler::fingerprint: fingerprint error for cfg-if v1.0.4/Check { test: false }/TargetInner { ..: lib_target("cfg_if", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cfg-if-1.0.4\\src\\lib.rs", Edition2018) }
+   0.167851300s  INFO prepare_target{force=false package_id=cfg-if v1.0.4 target="cfg_if"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\cfg-if-d0202b3c1f745d2b\lib-cfg_if`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_libgit2_prerelease
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: <unknown>
+  21: git_midx_writer_dump
+  22: git_filter_source_repo
+  23: git_midx_writer_dump
+  24: BaseThreadInitThunk
+  25: RtlUserThreadStart
+   0.168416800s  INFO prepare_target{force=false package_id=thiserror v1.0.69 target="thiserror"}: cargo::core::compiler::fingerprint: fingerprint error for thiserror v1.0.69/Check { test: false }/TargetInner { ..: lib_target("thiserror", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\thiserror-1.0.69\\src\\lib.rs", Edition2021) }
+   0.168440000s  INFO prepare_target{force=false package_id=thiserror v1.0.69 target="thiserror"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\thiserror-d46c458e97b2fbc1\lib-thiserror`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.175427100s  INFO prepare_target{force=false package_id=spectral_hypergraph v0.1.0 (C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph) target="spectral_hypergraph"}: cargo::core::compiler::fingerprint: fingerprint error for spectral_hypergraph v0.1.0 (C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph)/Check { test: true }/TargetInner { ..: lib_target("spectral_hypergraph", ["lib"], "C:\\Users\\deand\\Desktop\\cdd_sanctions_engin\\spectral_hypergraph\\src\\lib.rs", Edition2021) }
+   0.175475700s  INFO prepare_target{force=false package_id=spectral_hypergraph v0.1.0 (C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph) target="spectral_hypergraph"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\spectral_hypergraph-42d3d35f7698d970\test-lib-spectral_hypergraph`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.176424400s  INFO prepare_target{force=false package_id=serde_json v1.0.151 target="serde_json"}: cargo::core::compiler::fingerprint: fingerprint error for serde_json v1.0.151/Check { test: false }/TargetInner { ..: lib_target("serde_json", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\serde_json-1.0.151\\src\\lib.rs", Edition2021) }
+   0.176439400s  INFO prepare_target{force=false package_id=serde_json v1.0.151 target="serde_json"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\serde_json-681c1ae3c7fa557c\lib-serde_json`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.176951100s  INFO prepare_target{force=false package_id=itoa v1.0.18 target="itoa"}: cargo::core::compiler::fingerprint: fingerprint error for itoa v1.0.18/Check { test: false }/TargetInner { ..: lib_target("itoa", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\itoa-1.0.18\\src\\lib.rs", Edition2021) }
+   0.176968600s  INFO prepare_target{force=false package_id=itoa v1.0.18 target="itoa"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\itoa-c12660818da1cc42\lib-itoa`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.177603900s  INFO prepare_target{force=false package_id=memchr v2.8.3 target="memchr"}: cargo::core::compiler::fingerprint: fingerprint error for memchr v2.8.3/Check { test: false }/TargetInner { benched: false, ..: lib_target("memchr", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\memchr-2.8.3\\src\\lib.rs", Edition2021) }
+   0.177627600s  INFO prepare_target{force=false package_id=memchr v2.8.3 target="memchr"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\memchr-6df0da88e1d2c2f7\lib-memchr`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.178249000s  INFO prepare_target{force=false package_id=serde_core v1.0.229 target="serde_core"}: cargo::core::compiler::fingerprint: fingerprint error for serde_core v1.0.229/Check { test: false }/TargetInner { ..: lib_target("serde_core", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\serde_core-1.0.229\\src\\lib.rs", Edition2021) }
+   0.178269400s  INFO prepare_target{force=false package_id=serde_core v1.0.229 target="serde_core"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\serde_core-4dad261a738d1b56\lib-serde_core`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.180815900s  INFO prepare_target{force=false package_id=zmij v1.0.23 target="zmij"}: cargo::core::compiler::fingerprint: fingerprint error for zmij v1.0.23/Check { test: false }/TargetInner { ..: lib_target("zmij", ["lib"], "C:\\Users\\deand\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\zmij-1.0.23\\src\\lib.rs", Edition2021) }
+   0.180833800s  INFO prepare_target{force=false package_id=zmij v1.0.23 target="zmij"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\zmij-73223718c9ad4633\lib-zmij`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.182461200s  INFO prepare_target{force=false package_id=spectral_hypergraph v0.1.0 (C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph) target="integration_test"}: cargo::core::compiler::fingerprint: fingerprint error for spectral_hypergraph v0.1.0 (C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph)/Check { test: true }/TargetInner { kind: "test", name: "integration_test", benched: false, ..: with_path("C:\\Users\\deand\\Desktop\\cdd_sanctions_engin\\spectral_hypergraph\\tests\\integration_test.rs", Edition2021) }
+   0.182484700s  INFO prepare_target{force=false package_id=spectral_hypergraph v0.1.0 (C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph) target="integration_test"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\spectral_hypergraph-5cdbc642412ee614\test-integration-test-integration_test`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.183935200s  INFO prepare_target{force=false package_id=spectral_hypergraph v0.1.0 (C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph) target="basic_usage"}: cargo::core::compiler::fingerprint: fingerprint error for spectral_hypergraph v0.1.0 (C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph)/Check { test: false }/TargetInner { kind: "example", name: "basic_usage", tested: false, benched: false, ..: with_path("C:\\Users\\deand\\Desktop\\cdd_sanctions_engin\\spectral_hypergraph\\examples\\basic_usage.rs", Edition2021) }
+   0.183955100s  INFO prepare_target{force=false package_id=spectral_hypergraph v0.1.0 (C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph) target="basic_usage"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\spectral_hypergraph-4beee9439099af94\example-basic_usage`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.184806300s  INFO prepare_target{force=false package_id=spectral_hypergraph v0.1.0 (C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph) target="new_features"}: cargo::core::compiler::fingerprint: fingerprint error for spectral_hypergraph v0.1.0 (C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph)/Check { test: false }/TargetInner { kind: "example", name: "new_features", tested: false, benched: false, ..: with_path("C:\\Users\\deand\\Desktop\\cdd_sanctions_engin\\spectral_hypergraph\\examples\\new_features.rs", Edition2021) }
+   0.184830100s  INFO prepare_target{force=false package_id=spectral_hypergraph v0.1.0 (C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph) target="new_features"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph\target\debug\.fingerprint\spectral_hypergraph-0ca97601a7daecad\example-new_features`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+    Checking cfg-if v1.0.4
+    Checking bytemuck v1.25.2
+    Checking hashbrown v0.14.5
+    Checking equivalent v1.0.2
+    Checking rawpointer v0.2.1
+    Checking num-traits v0.2.19
+    Checking typenum v1.20.1
+    Checking fixedbitset v0.4.2
+    Checking zerocopy v0.8.55
+    Checking serde_core v1.0.229
+    Checking zmij v1.0.23
+    Checking itoa v1.0.18
+    Checking memchr v2.8.3
+    Checking thiserror v1.0.69
+    Checking getrandom v0.2.17
+    Checking matrixmultiply v0.3.11
+    Checking safe_arch v0.7.4
+    Checking rand_core v0.6.4
+    Checking indexmap v2.2.6
+    Checking num-integer v0.1.46
+    Checking num-complex v0.4.6
+    Checking approx v0.5.1
+    Checking wide v0.7.33
+    Checking num-rational v0.4.2
+    Checking petgraph v0.6.5
+    Checking serde_json v1.0.151
+    Checking simba v0.8.1
+    Checking ppv-lite86 v0.2.21
+    Checking rand_chacha v0.3.1
+    Checking rand v0.8.7
+    Checking nalgebra v0.32.6
+    Checking spectral_hypergraph v0.1.0 (C:\Users\deand\Desktop\cdd_sanctions_engin\spectral_hypergraph)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 12.97s
